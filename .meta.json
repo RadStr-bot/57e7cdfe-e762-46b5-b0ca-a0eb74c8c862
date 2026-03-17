@@ -1,0 +1,21 @@
+{
+  "iri": "57e7cdfe-e762-46b5-b0ca-a0eb74c8c862",
+  "projectIri": "57e7cdfe-e762-46b5-b0ca-a0eb74c8c862",
+  "types": [
+    "http://dataspecer.com/resources/local/package"
+  ],
+  "userMetadata": {
+    "label": {
+      "cs": "RaSt"
+    },
+    "description": {}
+  },
+  "metadata": {
+    "creationDate": "2026-03-17T22:28:35.474Z",
+    "modificationDate": "2026-03-17T22:30:16.367Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedAt": "2026-03-17T22:30:17.396Z",
+  "_exportedBy": "http://localhost:3100"
+}
