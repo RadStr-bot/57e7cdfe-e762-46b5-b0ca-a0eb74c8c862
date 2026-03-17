@@ -1,0 +1,57 @@
+{
+  "identifier": "c57979be-5ee9-4be6-87a4-c8f77b2d48bd",
+  "version": 1,
+  "type": "http://dataspecer.com/resources/local/visual-model",
+  "entities": [
+    {
+      "identifier": "c57979be-5ee9-4be6-87a4-c8f77b2d48bd-model-metadata-entity",
+      "type": [
+        "entity-model-type"
+      ],
+      "label": {
+        "en": "Anonymous model"
+      }
+    },
+    {
+      "model": "nxbzp",
+      "representedEntity": "a9lw42dtn2ummv6rto7",
+      "position": {
+        "x": 600,
+        "y": 420,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "1uc99"
+    },
+    {
+      "model": "nxbzp",
+      "representedEntity": "jjtt42ulvihmmv6rw0y",
+      "position": {
+        "x": 840,
+        "y": 190,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "9td6dg"
+    },
+    {
+      "model": "nxbzp",
+      "representedRelationship": "nt3wxz13srammv6rw10",
+      "waypoints": [],
+      "visualSource": "1uc99",
+      "visualTarget": "9td6dg",
+      "type": [
+        "visual-relationship"
+      ],
+      "identifier": "hrbiuj"
+    }
+  ]
+}

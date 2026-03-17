@@ -1,0 +1,20 @@
+{
+  "iri": "nxbzp",
+  "projectIri": "nxbzp",
+  "types": [
+    "http://dataspecer.com/resources/local/semantic-model"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": "Default local model"
+    }
+  },
+  "metadata": {
+    "creationDate": "2026-03-17T22:30:53.038Z",
+    "modificationDate": "2026-03-17T22:31:19.020Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedAt": "2026-03-17T22:31:25.066Z",
+  "_exportedBy": "http://localhost:3100"
+}

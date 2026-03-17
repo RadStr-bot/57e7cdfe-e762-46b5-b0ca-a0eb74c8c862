@@ -1,0 +1,16 @@
+{
+  "iri": "c57979be-5ee9-4be6-87a4-c8f77b2d48bd",
+  "projectIri": "c57979be-5ee9-4be6-87a4-c8f77b2d48bd",
+  "types": [
+    "http://dataspecer.com/resources/local/visual-model"
+  ],
+  "userMetadata": {},
+  "metadata": {
+    "creationDate": "2026-03-17T22:30:38.797Z",
+    "modificationDate": "2026-03-17T22:31:18.973Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedAt": "2026-03-17T22:31:25.065Z",
+  "_exportedBy": "http://localhost:3100"
+}

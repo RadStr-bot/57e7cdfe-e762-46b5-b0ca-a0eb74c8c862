@@ -1,0 +1,59 @@
+{
+  "type": "http://dataspecer.com/resources/local/semantic-model",
+  "modelId": "nxbzp",
+  "modelAlias": "Default local model",
+  "baseIri": "",
+  "entities": {
+    "a9lw42dtn2ummv6rto7": {
+      "iri": "shakyChange",
+      "name": {
+        "en": "Shaky Change"
+      },
+      "description": {},
+      "externalDocumentationUrl": null,
+      "id": "a9lw42dtn2ummv6rto7",
+      "type": [
+        "class"
+      ]
+    },
+    "jjtt42ulvihmmv6rw0y": {
+      "iri": "amiableFact",
+      "name": {
+        "en": "Amiable Fact"
+      },
+      "description": {},
+      "externalDocumentationUrl": null,
+      "id": "jjtt42ulvihmmv6rw0y",
+      "type": [
+        "class"
+      ]
+    },
+    "nt3wxz13srammv6rw10": {
+      "ends": [
+        {
+          "iri": null,
+          "name": {},
+          "description": {},
+          "concept": "a9lw42dtn2ummv6rto7",
+          "externalDocumentationUrl": null
+        },
+        {
+          "name": {
+            "en": "Irritable Student"
+          },
+          "description": {},
+          "concept": "jjtt42ulvihmmv6rw0y",
+          "iri": "irritableStudent",
+          "externalDocumentationUrl": ""
+        }
+      ],
+      "id": "nt3wxz13srammv6rw10",
+      "type": [
+        "relationship"
+      ],
+      "iri": null,
+      "name": {},
+      "description": {}
+    }
+  }
+}
